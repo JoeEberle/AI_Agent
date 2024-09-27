@@ -1,11 +1,4 @@
 
-![Image image_filename](solution_sign.png)
-
-# Ai Agent - Use uagent to Create AI agents to perform workflows and LLM integrations.
-Use uagent to Create AI agents to perform workflows and LLM integrations.
-
-![Image image_filename](code.png)
-
 ### **Autogen Library**:
 The **Autogen** library is a tool or framework designed to automate processes and workflows, often utilizing **artificial intelligence (AI)** and machine learning techniques. It focuses on enabling the automatic generation and optimization of code, data structures, reports, or other outputs that are typically created manually. Autogen libraries are used in various industries to reduce human intervention, accelerate development processes, and improve the accuracy of tasks like data processing, model training, and deployment.
 
@@ -35,44 +28,3 @@ An **AI agent** refers to a software entity that acts autonomously to perform ta
 - **Customer Support Chatbots**: AI agents that simulate conversations with users to answer questions, troubleshoot issues, or provide information.
 
 In summary, AI agents are crucial in automating tasks, improving efficiency, and enabling intelligent decision-making across a wide range of applications.
-
-![Image image_filename](sample.png)
-
-## Getting Started
-To get started with the **Ai Agent** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
-## Solution Features
-- Easy to understand and use  
-- Easily Configurable 
-- Quickly start your project with pre-built templates
-- Its Fast and Automated
-
-## Notebook Features
-- **Self Documenting** - Automatically identifes major steps in notebook 
-- **Self Testing** - Unit Testing for each function
-- **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
-- **Includes Talking Code** - The code explains itself 
-- **Self Logging** - Enhanced python standard logging   
-- **Self Debugging** - Enhanced python standard debugging
-- **Low Code** - or - No Code  - Most solutions are under 50 lines of code
-- **Educational** - Includes educational dialogue and background material
-    
-## Deliverables or Figures
- ![additional_image](AI_Agent.png)  <br>
-    
-
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
-
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
