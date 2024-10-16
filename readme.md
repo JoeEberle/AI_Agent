@@ -65,11 +65,8 @@ To get started with the **Ai Agent** solution repository, follow these steps:
  ![additional_image](AI_Agent.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
