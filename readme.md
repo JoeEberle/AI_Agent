@@ -28,7 +28,7 @@ An **AI agent** refers to a software entity that acts autonomously to perform ta
 - **Customer Support Chatbots**: AI agents that simulate conversations with users to answer questions, troubleshoot issues, or provide information.
 
 In summary, AI agents are crucial in automating tasks, improving efficiency, and enabling intelligent decision-making across a wide range of applications.
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
