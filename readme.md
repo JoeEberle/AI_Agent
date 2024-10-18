@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Ai Agent - Use uagent to Create AI agents to perform workflows and LLM integrations.
-Use uagent to Create AI agents to perform workflows and LLM integrations.
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Ai Agent - Use uagent to Create AI agents to perform workflows and LLM integrations.![Image image_filename](code.png)
 ### **Autogen Library**:
 The **Autogen** library is a tool or framework designed to automate processes and workflows, often utilizing **artificial intelligence (AI)** and machine learning techniques. It focuses on enabling the automatic generation and optimization of code, data structures, reports, or other outputs that are typically created manually. Autogen libraries are used in various industries to reduce human intervention, accelerate development processes, and improve the accuracy of tasks like data processing, model training, and deployment.
 
@@ -35,9 +28,7 @@ An **AI agent** refers to a software entity that acts autonomously to perform ta
 - **Customer Support Chatbots**: AI agents that simulate conversations with users to answer questions, troubleshoot issues, or provide information.
 
 In summary, AI agents are crucial in automating tasks, improving efficiency, and enabling intelligent decision-making across a wide range of applications.
-
 ![Image image_filename](sample.png)
-
 ## Getting Started
 To get started with the **Ai Agent** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -52,6 +43,9 @@ To get started with the **Ai Agent** solution repository, follow these steps:
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -61,13 +55,11 @@ To get started with the **Ai Agent** solution repository, follow these steps:
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](AI_Agent.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
