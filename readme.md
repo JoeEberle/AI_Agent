@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# Ai Agent - Use uagent to Create AI agents to perform workflows and LLM integrations.![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # Ai Agent 
+    ## Use uagent to Create AI agents to perform workflows and LLM integrations.
+    ![Image image_filename](code.png)
 ### **Autogen Library**:
 The **Autogen** library is a tool or framework designed to automate processes and workflows, often utilizing **artificial intelligence (AI)** and machine learning techniques. It focuses on enabling the automatic generation and optimization of code, data structures, reports, or other outputs that are typically created manually. Autogen libraries are used in various industries to reduce human intervention, accelerate development processes, and improve the accuracy of tasks like data processing, model training, and deployment.
 
@@ -38,12 +41,15 @@ To get started with the **Ai Agent** solution repository, follow these steps:
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
+    ## Getting Started
 ## Solution Features
+
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
+- Saves You Time 
+
 
 ## Notebook Features
 
