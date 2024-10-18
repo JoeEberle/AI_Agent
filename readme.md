@@ -4,7 +4,20 @@
 
 ## Use uagent to Create AI agents to perform workflows and LLM integrations.
 
-    ![Image image_filename](code.png)
+    
+# Table of Contents
+
+- [Solution Overview](#Solution-Overview)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Notebook Features](#notebook-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+![Image image_filename](code.png)
 ### **Autogen Library**:
 The **Autogen** library is a tool or framework designed to automate processes and workflows, often utilizing **artificial intelligence (AI)** and machine learning techniques. It focuses on enabling the automatic generation and optimization of code, data structures, reports, or other outputs that are typically created manually. Autogen libraries are used in various industries to reduce human intervention, accelerate development processes, and improve the accuracy of tasks like data processing, model training, and deployment.
 
